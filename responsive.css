@@ -1,0 +1,1641 @@
+@media (max-width: 575.98px) {
+.team .buttondiv {
+    margin-top: 0.5em;
+    width: 32%;
+}
+  .container-form {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+  .team .buttondiv-one {
+
+    margin-top: 1em;
+}
+  .team p {
+    margin-bottom: 0;
+ 
+}
+.news .teamhead h5::before {
+    content: '';
+    position: absolute;
+    width: 14%;
+    height: 2px;
+    top: 50%;
+    background-color: #6184c8;
+    left: -17%;
+}
+  .team .imgbox {
+    background-color: #ffffff;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 0px;
+    /* margin-bottom: 0px; */
+    margin-top: -3em;
+    margin-bottom: 2em;
+    box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+    padding: 1em;
+}
+.news h5 {
+    position: relative;
+    margin-left: 3.5em;
+    color: #6184c8;
+    font-size: 14px;
+    font-weight: 400;
+}
+  .testimonial .teamhead h5::before {
+    content: '';
+    position: absolute;
+    width: 31%;
+    height: 2px;
+    top: 50%;
+    background-color: white;
+    left: -36%;
+}
+  .details .row .details-body {
+    margin-bottom: 35px;
+  }
+  .section-padding {
+    padding: 30px 0;
+  }
+  .details {
+    margin-bottom: 0em;
+  }
+  .rightcontainer .breadcrumbwrapper {
+    color: white;
+  }
+
+  .blog-breadcrumb .breadcrumbwrapper {
+    color: white;
+    display: none;
+  }
+
+  .loginbtn {
+    padding: 0.5em;
+  }
+  .coursecaption h2 {
+    font-size: 3em;
+  }
+  .coursecaption-one h2 {
+    font-size: 1.5em;
+  }
+  .designbody h4 {
+    color: #204d67;
+    font-size: 1.5em;
+
+    margin-bottom: 0.5em;
+  }
+  .funiconwrapper-one h3 {
+    font-size: 1.3em;
+  }
+  .rightcontainer span {
+    color: white;
+    margin-right: 0.5em;
+    white-space: nowrap;
+    font-size: 9.5px;
+    display: none;
+  }
+  .field span {
+    padding: 6px;
+    border: 1px solid #cdd1e6;
+    border-right: none;
+    font-size: 18px;
+    background: #e9ecef;
+  }
+  .field input {
+    margin: 0;
+
+    margin-bottom: 1em;
+    width: 85%;
+    padding: 6px 5px;
+  }
+  .loginbtn {
+    padding: 0.75em;
+    text-align: center;
+    text-decoration: none;
+    background: #ffc107;
+    color: black;
+    width: 100%;
+    margin-top: 1em;
+    font-size: 15px;
+    margin-bottom: 1em;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #ffc107;
+    transition: all 0.3s ease-in;
+  }
+  .designformcontainer .content header {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  
+  .menuwrapper h1 {
+    font-size: 1.5em;
+  }
+  .eventbody h1 {
+    font-size: 1.5em;
+    font-weight: 900;
+  }
+  .formoptions h5 {
+    border: 1px solid gray;
+    margin-bottom: 8px;
+    padding: 1em;
+    font-size: 14px;
+  }
+
+  .leftcontainer h2 {
+    color: white;
+    font-size: 1em;
+  }
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 0;
+    margin-bottom: 1rem;
+    list-style: none;
+    font-size: 9px;
+  }
+
+  .breadcrumb-one {
+ 
+    font-size: 6px;
+}
+  .topnavbar {
+    display: none;
+  }
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: visible;
+  }
+  .banner .carousel-caption {
+    position: absolute;
+    top: 43px;
+    z-index: 9;
+  }
+  .banner p {
+    margin-bottom: 11px;
+    font-size: 12px;
+  }
+  .banner h1 {
+    color: white;
+    font-size: 18px;
+
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .banner button {
+    color: #264583;
+    border-radius: 0;
+    font-size: 7px;
+  }
+
+  .featurelist {
+    margin-bottom: 0.5em;
+    text-align: center;
+    margin-bottom: 2em;
+    position: relative;
+    margin-top: 0;
+  }
+  .featurelist .feature {
+    margin-bottom: 0.5em;
+  }
+  .about {
+    position: relative;
+    margin-bottom: 0;
+  }
+  .about .imgbox {
+    width: 500px;
+    height: 501px;
+    top: 100px;
+    background: #eef4ff;
+    position: relative;
+    margin-bottom: 10em;
+    left: 0;
+    display: none;
+  }
+  .about .abtright {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+ .about .abtright h1 {
+    font-size: 26px;
+
+}
+  .about .imgdesc i {
+    color: #7789b0;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+  }
+  .about .imgdesc img {
+    text-align: right;
+    border-radius: 50%;
+    width: 3em;
+    height: 3em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    object-fit: cover;
+  }
+  .about .imgdesc {
+    background-color: #00256e;
+    color: white;
+    padding: 1em;
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0px;
+    left: 0;
+  }
+  .about .imgdesc span {
+    font-weight: 600;
+    font-size: 0.7em;
+  }
+  .about .imgdesc p {
+    font-weight: 600;
+    font-size: 0.7em;
+  }
+  .about .imgdesc quote {
+    font-size: 0.8em;
+  }
+  .about .abtright-head {
+    position: relative;
+    left: 1em;
+    top: 16em;
+    display: none;
+  }
+  .about .aboutimg img {
+    width: 100% !important;
+    height: auto !important;
+    left: 0;
+    top: 0;
+    position: relative;
+    object-fit: cover;
+  }
+  .about .abtright-head {
+    position: relative;
+    left: 1em;
+    top: 16em;
+  }
+  .about .abtright h5 {
+    color: #6184c8;
+    margin-bottom: 17em;
+    font-size: 1em;
+    display: none;
+  }
+  .about .abtright-head::before {
+    content: '';
+    position: absolute;
+    width: 28%;
+    height: 2px;
+    top: 50%;
+    background-color: #6184c8;
+    left: -1em;
+    display: none;
+  }
+  .banner p {
+    margin-bottom: 11px;
+    font-size: 9px;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .flipbtn {
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    background-color: #06235c;
+    color: white;
+    padding: 0.5em 1em;
+    margin-bottom: 1em;
+    margin-top: 0.8em;
+  }
+
+  .banner .flip-card p {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .courses {
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+  }
+  .courses .row h1 {
+    margin-top: 0;
+    font-size: 2.5em;
+    font-weight: 600;
+  }
+  .courses .row h3 {
+    font-size: 1em;
+  }
+  .courses .row .img-desc {
+    background-color: #ffffff;
+    position: relative;
+    width: 90%;
+    margin-bottom: 2em;
+    padding: 1em;
+    box-shadow: 0px 15px 10px -15px grey;
+  }
+  .courses .row .btn {
+    border-radius: 0;
+    padding: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #264583;
+    margin: 0;
+    font-size: 0.7em;
+  }
+  .courses .row p {
+    font-size: 1em;
+    color: #485d88;
+    margin-bottom: 1.5em;
+    text-align: left;
+  }
+   .courses h5 {
+    position: relative;
+    margin-left: 3.5em;
+    color: #6184c8;
+    font-size: 14px;
+    font-weight: 400;
+}
+  .courses .teamhead h5::before {
+    content: '';
+    position: absolute;
+    width: 13%;
+    height: 2px;
+    top: 50%;
+    background-color: #6184c8;
+    left: -16%;
+}
+  .details .row h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+  }
+  .news .row h1 {
+    margin-top: 0;
+  }
+  .news .row img {
+    height: auto;
+    margin-bottom: 13em;
+    margin-top: 5em;
+  }
+  .news .row .img-desc {
+    background-color: #ffffff;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 1em;
+    margin-top: -18em;
+    box-shadow: 0px 15px 10px -15px grey;
+  }
+  .news .img-desc {
+    background-color: #ffffff;
+    position: relative;
+    width: 90%;
+    margin: 25px auto;
+    padding: 1em;
+    margin-top: -21em;
+    box-shadow: 0px 15px 10px -15px grey;
+  }
+
+
+  .team-one {
+    margin: 0;
+  }
+  .team h1 {
+    font-size: 2em;
+    font-weight: 600;
+
+  }
+  .team .btndesc {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1em;
+  }
+.team .teamhead h5 {
+    margin-left: 3.5em;
+    color: #6184c8;
+    font-size: 1em;
+    font-weight: 400;
+    position: relative;
+}
+.team .teamhead h5::before {
+    content: '';
+    position: absolute;
+    width: 14%;
+    height: 2px;
+    top: 50%;
+    background-color: #6184c8;
+    left: -18%;
+}
+
+  .team .btndesc p {
+    width: 100%;
+  }
+  .testimonial .testimonial-header h1 {
+    font-size: 2.5em;
+  }
+  .testimonial .testimonial-header {
+    padding-top: 1em;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-prev {
+    font-size: 4em;
+    color: white;
+    font-size: 6em;
+    left: -29px;
+    display: none;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-next {
+    color: white;
+    position: absolute;
+    font-size: 6em;
+    top: 150px;
+    right: -7px;
+    width: 5px;
+    display: none;
+  }
+  .firstcol h3 {
+    margin-top: 1em;
+  }
+
+  .leftcontainer h2 {
+    color: white;
+    font-size: 17px;
+  }
+  .rightcontainer-one {
+    font-size: 0.4em;
+    font-weight: 600;
+  }
+  .rightcontainer-one span {
+    color: white;
+    margin-right: 0.5em;
+    font-size: 9px;
+    font-weight: 600;
+    margin-left: 4px;
+  }
+  .banner-one {
+    background-image: url(assets/images/parkimg.jpg);
+    height: 108px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .imgcontainer-one {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 38px 0;
+    position: relative;
+    z-index: 9999;
+  }
+
+  .featurelist .feature i {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+  }
+  .featurelist .feature h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  .flip-card-front {
+    background-color: transparent;
+    color: black;
+  }
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: none;
+  }
+
+  .featurelist .flip-card {
+    text-align: center;
+  }
+  .featurelist .features:nth-child(1) .feature {
+    padding-bottom: 3em;
+  }
+  .featurelist .features:nth-child(2) .feature {
+    padding-bottom: 3em;
+  }
+  .featurelist .features:nth-child(3) .feature {
+    padding-bottom: 3em;
+  }
+  */ .flip-card:hover .flip-card-inner {
+    /* transform: none; */
+    transform: rotateY(180deg);
+  }
+  .flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 244px;
+    perspective: 1000px;
+  }
+  .team .buttondiv-one {
+    text-decoration: none;
+    color: #264583;
+    float: left;
+    margin-bottom: 20px;
+  }
+  .formparagraphwrapper {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  blockquote {
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+    font-style: italic;
+    color: #f0506e;
+  }
+  .descquote span {
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: italic;
+  }
+  .description .descquote i {
+    color: #bfbfbf;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    margin-right: 1em;
+  }
+}
+/*
+                                                           @media only screen and (min-width: 360px) and (max-width: 767px) {
+                                                               .menu .logoimg {
+                                                                   width: 2em;
+                                                               }
+                                                               .rightcolumn {
+                                                                   text-align: center;
+                                                               }
+                                                               .rightcolumn ul {
+                                                                   display: flow-root;
+                                                               }
+                                                               .rightcolumn ul li {
+                                                                   margin-top: 5px;
+                                                               }
+                                                               .topnavbar {
+                                                                   text-align: center;
+                                                               }
+                                                               .featurelist {
+                                                                   text-align: center;
+                                                                   margin-bottom: 4em;
+                                                                   position: relative;
+                                                                   top: 1em;
+                                                               }
+                                                               .featurelist .features {
+                                                                   margin-bottom: 1em;
+                                                               }
+                                                               .about {
+                                                                   position: relative;
+                                                                   margin-bottom: 4em;
+                                                                   margin-left: 1.3em;
+                                                               }
+                                                               .about .imgbox {
+                                                                   width: 367px;
+                                                                   height: 501px;
+                                                                   top: 100px;
+                                                                   background: #EEF4FF;
+                                                                   position: relative;
+                                                                   margin-bottom: 10em;
+                                                                   left: 0;
+                                                               }
+                                                               .about .aboutimg img {
+                                                                   width: 339px;
+                                                                   height: 550px;
+                                                                   left: 0;
+                                                                   top: 0;
+                                                                   position: absolute;
+                                                                   object-fit: cover;
+                                                               }
+                                                               .about .imgdesc {
+                                                                   background-color: #00256E;
+                                                                   color: white;
+                                                                   padding: 2em;
+                                                                   width: 341px;
+                                                                   height: 350px;
+                                                                   position: absolute;
+                                                                   top: 568px;
+                                                                   left: 0px;
+                                                               }
+                                                               .about .abtright {
+                                                                   margin-top: 17em;
+                                                                   margin-left: 0;
+                                                               }
+                                                               .details .row .details-body {
+                                                                   text-align: center;
+                                                                   margin-bottom: 1.5em;
+                                                               }
+                                                               .courses {
+                                                                   background-color: #F7F8FD;
+                                                                   position: relative;
+                                                                   padding-bottom: 4em;
+                                                                   margin-bottom: 0;
+                                                                   padding-left: 1em;
+                                                               }
+                                                               .courses .row h1 {
+                                                                   text-align: center;
+                                                                   margin-bottom: 0.5em;
+                                                               }
+                                                               .courses .row h1 {
+                                                                   margin: 0;
+                                                               }
+                                                               .courses .row img {
+                                                                   width: 100%;
+                                                                   height: auto;
+                                                                   object-fit: cover;
+                                                                   margin-bottom: 1em;
+                                                               }
+                                                               .courses {
+                                                                   background-color: #F7F8FD;
+                                                                   position: relative;
+                                                                   padding-bottom: 4em;
+                                                                   margin-bottom: 0;
+                                                               }
+                                                               .interest {
+                                                                   margin-bottom: -8em;
+                                                                   padding-left: 1em;
+                                                               }
+                                                               .interest .interest-img .play-btn {
+                                                                   width: 14%;
+                                                                   position: absolute;
+                                                                   left: 32%;
+                                                                   top: 50%;
+                                                                   transform: translate(-50%, -50%);
+                                                                   cursor: pointer;
+                                                               }
+                                                               .interest .row .paragraphbody {
+                                                                   object-fit: cover;
+                                                                   text-align: center;
+                                                                   width: 670px;
+                                                                   height: 600px;
+                                                                   margin-left: 0;
+                                                                   position: relative;
+                                                               }
+                                                               .interest .row .paragraphbody::before {
+                                                                   content: "";
+                                                                   position: absolute;
+                                                                   top: 0;
+                                                                   right: 0px;
+                                                                   width: 48.8%;
+                                                                   height: 100%;
+                                                                   background-color: rgba(16, 42, 99, 1);
+                                                                   opacity: 0.9;
+                                                                   display: none;
+                                                               }
+                                                               .topnavbar {
+                                                                   background-color: #00256e;
+                                                                   padding: 10px 0px;
+                                                                   display: none;
+                                                               }
+                                                               .interest .row .interest-img .girlimg {
+                                                                   width: 50%;
+                                                                   height: 654px;
+                                                                   object-fit: cover;
+                                                                   height: 487px;
+                                                               }
+                                                               .interest .interest-img .play-btn {
+                                                                   width: 14%;
+                                                                   position: absolute;
+                                                                   left: 27%;
+                                                                   top: 52%;
+                                                                   transform: translate(-50%, -50%);
+                                                                   cursor: pointer;
+                                                               }
+                                                               .interest .row .paragraphbody .accordion {
+                                                                   position: absolute;
+                                                                   top: 155px;
+                                                                   width: 326px;
+                                                                   left: -2px;
+                                                               }
+                                                               .interest .row .paragraphbody .accordion-body h1 {
+                                                                   position: absolute;
+                                                                   top: 56px;
+                                                                   left: 0;
+                                                                   width: 397px;
+                                                                   color: #00256E;
+                                                                   font-size: 40px;
+                                                                   font-weight: 600;
+                                                                   margin-bottom: 0.5em;
+                                                               }
+                                                               .interest .row .paragraphbody img {
+                                                                   width: 51.5%;
+                                                                   height: 100%;
+                                                                   object-fit: cover;
+                                                                   left: -10px;
+                                                                   position: absolute;
+                                                               }
+                                                               .interest .row .interest-img {
+                                                                   width: 690px;
+                                                                   height: 487px;
+                                                                   margin: 0;
+                                                                   position: relative;
+                                                                   overflow: hidden;
+                                                                   left: -11px;
+                                                                   object-fit: cover;
+                                                               }
+                                                               .team {
+                                                                   position: relative;
+                                                                   margin-bottom: 3em;
+                                                                   margin-top: 14em;
+                                                               }
+                                                               .team h1 {
+                                                                   font-size: 40px;
+                                                                   font-weight: 600;
+                                                                   margin-top: 0.25em;
+                                                                   margin-bottom: 0.5em;
+                                                               }
+                                                               .team .teamhead h5::before {
+                                                                   content: "";
+                                                                   position: absolute;
+                                                                   width: 13%;
+                                                                   height: 2px;
+                                                                   top: 7px;
+                                                                   background-color: #6184C8;
+                                                                   left: 17px;
+                                                                   display: none
+                                                               }
+                                                               .team .teamhead h5 {
+                                                                   margin-left: 5em;
+                                                                   color: #6184C8;
+                                                                   font-size: 14px;
+                                                                   font-weight: 400;
+                                                                   display: none;
+                                                               }
+                                                               .btndesc {
+                                                                   display: none;
+                                                               }
+                                                               .team .imgcontainer img {
+                                                                   width: 100%;
+                                                                   height: auto;
+                                                                   object-fit: cover;
+                                                                   margin-bottom: 1em;
+                                                               }
+                                                              
+                                                               .testimonial {
+                                                                   background-color: #5598FF;
+                                                               }
+                                                               .testimonial .contain .item {
+                                                                   width: 100%;
+                                                                   background: #FFFFFF;
+                                                                   margin-bottom: 4em;
+                                                                   padding: 2em;
+                                                                   text-align: center;
+                                                               }
+                                                               .testimonial .testimonial-header h1 {
+                                                                   color: white;
+                                                                   font-size: 39px;
+                                                                   font-weight: 600;
+                                                                   margin-bottom: 1em;
+                                                               }
+                                                               .testimonial .owl-carousel .owl-dots {
+                                                                   color: red;
+                                                                   font-size: 50px;
+                                                                   display: none;
+                                                               }
+                                                               .news .row .img-desc {
+                                                                   background-color: #FFFFFF;
+                                                                   position: absolute;
+                                                                   width: 36%;
+                                                                   margin-left: 2em;
+                                                                   padding: 1.5em;
+                                                                   margin-top: -338px;
+                                                                   box-shadow: 0px 15px 10px -15px grey;
+                                                               }
+                                                               .news .row img {
+                                                                   object-fit: cover;
+                                                                   margin-bottom: 2em;
+                                                                   width: 100%;
+                                                                   height: auto;
+                                                               }
+                                                               footer .firstcol {
+                                                                   text-align: center;
+                                                               }
+                                                               footer h3 {
+                                                                   margin-bottom: 0.5em;
+                                                                   margin-top: 2em;
+                                                                   font-size: 18px;
+                                                                   color: #FFC107;
+                                                               }
+                                                               footer .row {
+                                                                   line-height: 1.5;
+                                                               }
+                                                               footer ul li {
+                                                                   font-weight: 100;
+                                                                   font-size: 13px;
+                                                               }
+                                                               .testimonial .owl-carousel .owl-nav .owl-prev {
+                                                                   font-size: 4em;
+                                                                   color: white;
+                                                                   font-size: 6em;
+                                                                   left: -29px;
+                                                                   display: none;
+                                                               }
+                                                               .testimonial .owl-carousel .owl-nav .owl-next {
+                                                                   color: white;
+                                                                   position: absolute;
+                                                                   font-size: 6em;
+                                                                   top: 150px;
+                                                                   right: -7px;
+                                                                   width: 5px;
+                                                                   display: none;
+                                                               }
+                                                           }
+                                                           */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    width: 38em;
+  }
+  .banner {
+    position: relative;
+    width: 100%;
+  }
+  .about .imgbox {
+    width: 24em;
+    height: 32em;
+    top: 4em;
+    background: #eef4ff;
+    position: relative;
+    margin-bottom: 0;
+    left: 0;
+  }
+  .about .aboutimg img {
+    width: 23em;
+    height: 31em;
+    left: 5em;
+    top: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  .about .imgdesc {
+    background-color: #00256e;
+    color: white;
+    padding: 2em;
+    width: 23em;
+    height: 20em;
+    position: absolute;
+    top: 18em;
+    left: 9em;
+  }
+  .about .abtright {
+    margin-top: 8em;
+    margin-left: 0;
+  }
+  .about .abtright h5 {
+    display: none;
+  }
+  .about .abtright-head::before {
+    display: none;
+  }
+  .details {
+    margin-bottom: 3em;
+  }
+  .courses {
+    background-color: #f7f8fd;
+    position: relative;
+    padding-bottom: 4em;
+   
+  }
+ 
+  .courses .row h1 {
+    text-align: center;
+    margin-bottom: 0.5em;
+    padding-top: 0.5em;
+  }
+  .courses .row .btn {
+    border-radius: 0;
+    padding: 0.5em;
+    color: #264583;
+    margin: 0;
+  }
+  .courses .row .img-desc {
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 2em;
+    width: 8em;
+    margin-left: 4em;
+    padding: 0.5em;
+    box-shadow: 0px 15px 10px -15px grey;
+    display: block;
+  }
+  .courses .row p {
+    font-size: 0.5em;
+    color: #485d88;
+    margin-bottom: 1em;
+  }
+  .courses .row h3 {
+    font-size: 0.5em;
+  }
+  .courses .row .btn {
+    border-radius: 0;
+    padding: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 1em;
+    color: #264583;
+    margin: 0;
+    font-size: 0.7em;
+  }
+  .courses .hideclass {
+    display: none;
+  }
+  .interest {
+    margin-bottom: -8em;
+    padding-left: 0;
+  }
+  .interest .row .interest-img .girlimg {
+    width: 100%;
+    object-fit: cover;
+    height: 30em;
+  }
+  .interest .interest-img .play-btn {
+    width: 14%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+  }
+  .interest .row .paragraphbody img {
+    width: 104%;
+    height: 100%;
+    object-fit: cover;
+    left: -1em;
+    position: absolute;
+  }
+  .interest .row .paragraphbody .accordion-body h1 {
+    position: absolute;
+    top: 1.3em;
+    left: 0;
+    width: 14em;
+    color: #00256e;
+    font-size: 3em;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+  }
+  .interest .row .paragraphbody .accordion {
+    position: absolute;
+    top: 9em;
+    width: 31em;
+    left: 6em;
+  }
+  .accordion-body h5::before {
+    content: '';
+    position: absolute;
+    width: 9%;
+    height: 2px;
+    top: 50%;
+    background-color: #6184c8;
+    left: 7em;
+  }
+  .interest .row .paragraphbody .accordion-body h5 {
+    position: absolute;
+    top: 2em;
+    right: 16em;
+    width: 29em;
+    color: #6184c8;
+    font-size: 1em;
+    font-weight: 400;
+    display: none;
+  }
+  .team .teamhead h5::before {
+    content: '';
+    position: absolute;
+    width: 10%;
+    height: 2px;
+    top: 7px;
+    background-color: #6184c8;
+    left: 2.5em;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-prev {
+    font-size: 4em;
+    color: white;
+    font-size: 6em;
+    left: -29px;
+    display: none;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-next {
+    color: white;
+    position: absolute;
+    font-size: 6em;
+    top: 150px;
+    right: -7px;
+    width: 5px;
+    display: none;
+  }
+  .news .row .img-desc {
+    background-color: #ffffff;
+    position: rela;
+    width: 18em;
+    margin-left: 7em;
+    padding: 1em;
+    margin-top: -11em;
+    box-shadow: 0px 15px 10px -15px grey;
+  }
+  .news .row img {
+    object-fit: cover;
+    margin-bottom: 6em;
+    width: 100%;
+    height: auto;
+  }
+  .news .img-desc h3 {
+    font-size: 0.75em;
+    font-weight: 600;
+    margin: 0;
+  }
+  .news .row .btn {
+    border-radius: 0;
+    padding: 0.5em;
+    color: #264583;
+    margin: 0;
+    font-size: 0.75em;
+  }
+  .news span {
+    font-size: 0.5em;
+    color: #8f8a8a;
+  }
+  .news p {
+    color: #0b2e74;
+    color: #8f8a8a;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 0.6em;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .design h1 {
+    font-size: 2.5em;
+}
+  .news h5 {
+    position: relative;
+    margin-left: 4em;
+    color: #6184c8;
+    font-size: 14px;
+    font-weight: 400;
+}
+  .courses h5 {
+    position: relative;
+    margin-left: 4em;
+    color: #6184c8;
+    font-size: 14px;
+    font-weight: 400;
+}
+  .designbody h4 {
+    font-size: 2em;
+  }
+  .coursecaption h2 {
+    font-size: 3em;
+  }
+  .coursecaption-one h2 {
+    font-size: 2em;
+  }
+  .loginbtn {
+    padding: 0.5em;
+  }
+  .funiconwrapper-one h3 {
+    font-size: 2em;
+  }
+
+  .menuwrapper h1 {
+    font-size: 2em;
+  }
+  .eventbody h1 {
+    font-size: 1.4em;
+    font-weight: 800;
+  }
+  .formoptions h5 {
+    border: 1px solid gray;
+    margin-bottom: 0;
+    padding: 1em;
+    font-size: 12px;
+  }
+  .menuwrapper h1 {
+    font-size: 2.5em;
+  }
+  .field input {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin-bottom: 1em;
+    width: 75%;
+  }
+.rightcontainer span {
+    color: white;
+    margin-right: 0.5em;
+    white-space: nowrap;
+    font-size: 10px;
+}
+  .topnavbar {
+    background-color: #00256e;
+    padding: 10px 0px;
+    display: none;
+  }
+  .menu {
+    background-color: white;
+    padding-bottom: 0.8em;
+    width: 100%;
+  }
+ .rightcontainer .breadcrumbwrapper {
+    color: white;
+    font-size: 9px;
+}
+ .leftcontainer h2 {
+    color: white;
+    font-size: 1.5em;
+}
+  .banner {
+    position: relative;
+    width: 100%;
+  }
+  .banner h1 {
+    color: white;
+    font-size: 2em;
+    margin-bottom: 12px;
+    top: -124px;
+    left: 105px;
+    position: absolute;
+  }
+  .flip-card .flip-card-back p {
+    font-size: 12px;
+    top: 0;
+  }
+  .flip-card-inner {
+    box-shadow: none;
+  }
+
+  .flip-card-front {
+    background-color: transparent;
+    color: black;
+  }
+  .flip-card-back {
+    height: 325px;
+}
+  .flipbtn {
+    margin-top: 2em;
+  }
+  .featurelist .flip-card .feature h2 {
+    font-size: 2em;
+    margin-bottom: 0;
+  }
+  .featurelist-one {
+    text-align: center;
+    margin-bottom: 2em;
+    position: relative;
+    top: 1em;
+    z-index: 9999;
+  }
+  .detailbody {
+    min-height: 480px;
+}
+
+  .banner p {
+    margin-bottom: 0;
+    position: absolute;
+    top: -73px;
+  }
+
+  .banner .flip-card .feature p {
+    display: none;
+  }
+  .featurelist .features:nth-child(1) .feature {
+    padding-bottom: 2em;
+    padding: 0 1em 0.5em;
+    background-color: #5599ff;
+    margin-top: 0;
+  }
+  .featurelist .features:nth-child(2) .feature {
+    padding-bottom: 2em;
+    padding: 0 1em 0.5em;
+    background-color: #ff5f69;
+    margin-top: 0;
+  }
+  .featurelist .features:nth-child(3) .feature {
+    padding-bottom: 2em;
+    padding: 0 1em 0.5em;
+    background-color: #11c0b2;
+    margin-top: 0;
+    /* display: none; */
+  }
+.three {
+    height: 325px;
+    margin-top: 0;
+}
+  .about {
+    margin-bottom: 14em;
+  }
+  .about .abtright h1 {
+    font-size: 33px;
+    font-weight: 600;
+  }
+  .about .abtright p {
+    margin-top: 1em;
+    color: #485d88;
+  }
+  .about .imgbox {
+    width: 367px;
+    height: 501px;
+    top: 100px;
+    background: #eef4ff;
+    position: relative;
+    margin-bottom: 10em;
+    left: -27px;
+    display: none;
+  }
+  .about .aboutimg img {
+    width: 262px;
+    height: 295px;
+    left: 35px;
+    top: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  .about .imgdesc {
+    background-color: #00256e;
+    color: white;
+    padding: 2em;
+    width: 262px;
+    height: auto;
+    position: absolute;
+    top: 299px;
+    left: 35px;
+  }
+  .about .abtright {
+    margin-top: -7px;
+    margin-left: -3em;
+    width: 375px;
+  }
+  .details .row h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+  }
+  .details .row {
+    text-align: center;
+  }
+  .details {
+    text-align: center;
+  }
+  .courses {
+    margin-bottom: 2em;
+    background-color: #f7f8fd;
+    padding-bottom: 4em;
+    position: relative;
+  }
+
+  .courses .row {
+    justify-content: center;
+  }
+  .courses .row h1 {
+    margin-top: 0;
+    font-size: 2.5em;
+    font-weight: 600;
+    padding-top: 0;
+  }
+  .courses .row h3 {
+    font-size: 16px;
+  }
+  .courses .row p {
+    font-size: 1em;
+  }
+
+  .courses .img-desc p {
+    font-size: 0.5em;
+  }
+  .courses .row .btn {
+    font-size: 0.5em;
+    padding: 0.5em;
+  }
+  .courses .row img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 3em;
+    margin-top: 1em;
+  }
+  .courses .row .img-desc {
+    background-color: #ffffff;
+    position: relative;
+    margin-top: -7em;
+    width: 85%;
+    padding: 0.5em;
+    box-shadow: 0px 15px 10px -15px grey;
+    display: block;
+    min-height: 42%;
+  }
+  .interest .row .interest-img .girlimg {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    height: auto;
+    margin-left: 2em;
+  }
+  .interest .row .interest-img {
+    width: 690px;
+    height: 487px;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+    left: 22px;
+    object-fit: cover;
+  }
+  .interest .interest-img .play-btn {
+    width: 14%;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+  }
+  .interest {
+    position: relative;
+    margin-top: 3em;
+  }
+  .interest h5 {
+    display: none;
+  }
+  .interest .row .paragraphbody img {
+    width: 98.25%;
+    height: 100%;
+    object-fit: cover;
+    left: 3.35em;
+    position: absolute;
+  }
+  .interest .row .paragraphbody {
+    object-fit: cover;
+    text-align: center;
+    width: 670px;
+    height: 600px;
+    margin-left: 0;
+    position: relative;
+    top: -199px;
+  }
+  .interest .row .paragraphbody .accordion {
+    position: absolute;
+    top: 115px;
+    right: 125px;
+    width: 500px;
+    left: 104px;
+  }
+  .interest .row .paragraphbody .accordion-body h1 {
+    position: absolute;
+    top: 56px;
+    left: 96px;
+    width: 447px;
+    color: #00256e;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+  }
+  .interest .row .paragraphbody .accordion-body h5 {
+    position: absolute;
+    top: 38px;
+    right: 213px;
+    width: 500px;
+    color: #6184c8;
+    font-size: 13px;
+    font-weight: 400;
+  }
+  .interest .row .paragraphbody .accordion-body h5::before {
+    content: '';
+    position: absolute;
+    width: 10%;
+    height: 2px;
+    top: 50%;
+    background-color: #6184c8;
+    left: 11em;
+  }
+  .news .img-desc h3 {
+    font-size: 0.75em;
+    font-weight: 600;
+    margin: 0;
+  }
+  .news .row .btn {
+    border-radius: 0;
+    padding: 0.5em;
+    color: #264583;
+    margin: 0;
+    font-size: 0.75em;
+  }
+  .news span {
+    font-size: 0.5em;
+    color: #8f8a8a;
+  }
+  .news p {
+    color: #0b2e74;
+    color: #8f8a8a;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 0.6em;
+  }
+
+  .news .row h1 {
+    margin-top: 0;
+  }
+  .news .row .img-desc {
+    background-color: #ffffff;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 2em;
+    padding: 0.5em;
+    margin-top: -11em;
+    box-shadow: 0px 15px 10px -15px grey;
+  }
+  .news .row img {
+    object-fit: cover;
+    margin-bottom: 6em;
+    width: 100%;
+    height: auto;
+  }
+  .team {
+    position: relative;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .team h1 {
+    font-size: 3em;
+    font-weight: 600;
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+  }
+  .team .imgbox {
+    background-color: #ffffff;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 0;
+
+    margin-top: -3em;
+    margin-bottom: 0;
+    box-shadow: 0px 15px 10px -15px grey;
+    padding: 1em;
+  }
+.team .buttondiv {
+    width: 14%;
+    margin-bottom: 1em;
+    border-radius: 0;
+    padding:0.5em 1em ;
+     background-color: #ffca2c;
+}
+  .team .imgcontainer img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 1em;
+  }
+.team .teamhead h5::before {
+    content: '';
+    position: absolute;
+    width: 9%;
+    height: 2px;
+    top: 50%;
+    background-color: #6184c8;
+    left: -13%;
+}
+.testimonial .teamhead h5::before {
+    content: '';
+    position: absolute;
+    width: 10%;
+    height: 2px;
+    top: 50%;
+    background-color: white;
+    left: -13.5%;
+}
+
+
+  .team h1 {
+    margin-top: 0;
+  }
+.team .paragraphdiv p {
+    width: 85%;
+    margin-bottom: 0;
+}
+  .testimonial .testimonial-header {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 2em;
+  }
+  .testimonial .testimonial-header h1 {
+    color: white;
+    font-size: 3em;
+    font-weight: 600;
+    margin-bottom: 0.25em;
+  }
+  .testimonial .contain .item {
+    width: 100%;
+    background: #ffffff;
+    margin-right: 0em;
+    margin-bottom: 0;
+    padding: 1em;
+    text-align: center;
+    height: auto;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-prev {
+    font-size: 4em;
+    color: white;
+    font-size: 6em;
+    left: -29px;
+    display: none;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-next {
+    color: white;
+    position: absolute;
+    font-size: 6em;
+    top: 150px;
+    right: -7px;
+    width: 5px;
+    display: none;
+  }
+  footer h5 {
+    margin-bottom: 0.7em;
+    margin-top: 0;
+    font-size: 2em;
+  }
+
+  footer ul li {
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 20px;
+  }
+  .banner .flip-card p {
+    margin-bottom: 1em;
+    position: relative;
+  }
+  .featurelist .flip-card .feature h2 {
+    font-size: 2em;
+    margin-bottom: 3em;
+  }
+
+  .featurelist .flip-card .feature i {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+    margin-top: 1.5em;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .about .aboutimg img {
+    width: 49%;
+    height: auto;
+    left: 3em;
+    top: 0em;
+    position: absolute;
+    object-fit: cover;
+  }
+  .about .imgbox {
+    width: 25em;
+    height: 22em;
+    top: 2em;
+    background: #eef4ff;
+    position: relative;
+    margin-bottom: 10em;
+    left: -2em;
+  }
+  .about .imgdesc {
+    background-color: #00256e;
+    color: white;
+    padding: 1em;
+    width: 17em;
+    height: auto;
+    position: absolute;
+    top: 9em;
+    left: 20em;
+    box-shadow: 0px 15px 10px -15px grey;
+  }
+  .banner p {
+    margin-bottom: 6px;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-prev {
+    font-size: 4em;
+    color: white;
+    font-size: 6em;
+    left: -29px;
+  }
+  .testimonial .owl-carousel .owl-nav .owl-next {
+    color: white;
+    position: absolute;
+    font-size: 6em;
+    top: 150px;
+    right: -7px;
+    width: 5px;
+  }
+}
